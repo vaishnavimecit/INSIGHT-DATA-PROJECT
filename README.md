@@ -4,8 +4,10 @@ My Insight Data Project
   |--censustract-00-10
 
 |--report
- 
-
-|--src
+  |--report.csv
+  
+ |--src
+   |--insight_data.jpynb
 
 |--readme.md
+  
